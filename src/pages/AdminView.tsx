@@ -26,3 +26,6 @@ const AdminView = () => {
       </div>
     </div>
   );
+};
+
+export default AdminView;
