@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className="flex">
             <div className="flex-shrink-0 flex items-center">
               <Link to="/" className="text-xl font-semibold text-cafe-800">
-                Virtual Café
+                Cafeteria order Placement System
               </Link>
             </div>
           </div>
